@@ -111,7 +111,7 @@ A pretrained **MobileNetV2** model (ImageNet weights) was used as feature extrac
 - Visual comparison of predictions between:
   - CNN from scratch
   - Transfer learning model
-
+ 
 The transfer learning approach significantly outperforms the model trained from scratch,
 both in accuracy and generalization.
 
