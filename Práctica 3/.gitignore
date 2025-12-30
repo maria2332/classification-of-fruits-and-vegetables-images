@@ -1,0 +1,35 @@
+# ===============================
+# Datasets de imagenes
+# ===============================
+train/
+validation/
+test/
+archive/
+Práctica 3/train/
+Práctica 3/validation/
+Práctica 3/test/
+
+# Imagenes
+*.jpg
+*.jpeg
+*.png
+
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ===============================
+# Entornos
+# ===============================
+venv/
+.venv/
+
+# ===============================
+# SO / IDE
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
